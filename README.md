@@ -7,3 +7,4 @@
 看源码过程中的思考
 
 - [nextTick](https://github.com/cuixiaorui/vue3-think/blob/master/visualThinking/nextTick.md)
+- [directives](https://github.com/cuixiaorui/vue3-think/blob/master/visualThinking/directives.md)
