@@ -8,3 +8,10 @@
 
 - [nextTick](https://github.com/cuixiaorui/vue3-think/blob/master/visualThinking/nextTick.md)
 - [directives](https://github.com/cuixiaorui/vue3-think/blob/master/visualThinking/directives.md)
+
+
+## 2To3
+
+记录 vue2 升级 vue3 的过程
+
+- [获取全局配置]()
