@@ -9,6 +9,7 @@
 - [nextTick](https://github.com/cuixiaorui/vue3-think/blob/master/visualThinking/nextTick.md)
 - [directives](https://github.com/cuixiaorui/vue3-think/blob/master/visualThinking/directives.md)
 - [emit](https://github.com/cuixiaorui/vue3-think/blob/master/visualThinking/emit.md)
+- [VTU 的设计模型](https://github.com/cuixiaorui/vue3-think/blob/master/visualThinking/VTU-model.md)
 
 
 ## 2To3
