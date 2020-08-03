@@ -12,6 +12,13 @@
 - [VTU 的设计模型](https://github.com/cuixiaorui/vue3-think/blob/master/visualThinking/VTU-model.md)
 
 
+## 产出
+- [mini-vue](https://github.com/cuixiaorui/mini-vue)
+    - 实现了 mini vue3
+- [vue-pixijs](https://github.com/cuixiaorui/vue-pixijs)
+    - 基于 pixijs 实现 vue3 结合 canvas 做小游戏
+
+
 ## 2To3
 
 记录 vue2 升级 vue3 的过程
