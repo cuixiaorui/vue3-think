@@ -24,3 +24,4 @@
 记录 vue2 升级 vue3 的过程
 
 - [获取全局配置](https://github.com/cuixiaorui/vue3-think/blob/master/2To3/globalConfig.md)
+- [集成 VTU]()
