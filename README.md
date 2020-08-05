@@ -17,6 +17,7 @@
     - 实现了 mini vue3
 - [vue-pixijs](https://github.com/cuixiaorui/vue-pixijs)
     - 基于 pixijs 实现 vue3 结合 canvas 做小游戏
+- [测试 vue 组件的三个要领](https://github.com/cuixiaorui/vue3-think/blob/master/output/test-vue-component.md)
 
 
 ## 2To3
